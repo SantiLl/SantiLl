@@ -3,7 +3,7 @@
 #### I'm a Full-Stack Developer working in Buenos Aires, Argentina.
 
 
-- 🔭 I’m currently working as a Freelance Developer.
+- 🔭 I’m currently working as a Backend Developer at [Defiant](https://defiantapp.tech/).
 - 💻 I use daily: `.rb`, `.js`, `.html`, `.css`
 - 🛠 Built: [Cocina en Casa](https://cocinaencasa.com.ar), [EasyKitchen](https://easy-kitchen-app.herokuapp.com/)
 - 🌱 Currently learning about **Computer Science**, **Ruby on Rails**, and **JavaScript**
